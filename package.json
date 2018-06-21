@@ -1,0 +1,29 @@
+{
+  "name": "utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anksanu/utility.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "anksanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anksanu/utility/issues"
+  },
+  "homepage": "https://github.com/anksanu/utility#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^4.19.1",
+    "stylelint": "^9.3.0",
+    "typescript": "^2.9.2",
+    "webpack": "^4.12.0"
+  }
+}
